@@ -1,4 +1,4 @@
-# android-developer-resouce
+# android-developer-resource
 
 ## website
 * http://androidweekly.net
