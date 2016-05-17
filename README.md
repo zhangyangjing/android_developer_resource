@@ -11,6 +11,7 @@
 * http://android-developers.blogspot.com
 * http://officialandroid.blogspot.com
 * http://www.curious-creature.com
+* https://medium.com/google-developers
 
 ## group
 * https://groups.google.com/forum/#!forum/android-developers
