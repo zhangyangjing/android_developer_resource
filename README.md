@@ -7,6 +7,7 @@
 * http://developer.android.com/index.html
 * https://www.google.com/design/spec/material-design/introduction.html
 * http://www.androiddesignpatterns.com/
+* http://www.androiduipatterns.com/
 * https://realm.io/cn/news/
 
 ## blog
@@ -14,6 +15,8 @@
 * http://officialandroid.blogspot.com
 * http://www.curious-creature.com
 * https://medium.com/google-developers
+* https://blog.stylingandroid.com/#
+* http://cyrilmottier.com/
 
 ## group
 * https://groups.google.com/forum/#!forum/android-developers
@@ -31,5 +34,6 @@
 * https://plus.google.com/+ChetHaase
 * https://plus.google.com/+RomanNurik
 * https://plus.google.com/+RomainGuy
+* https://plus.google.com/+CyrilMottier
 
 ## open source project
