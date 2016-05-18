@@ -6,6 +6,8 @@
 * http://www.androidweekly.cn
 * http://developer.android.com/index.html
 * https://www.google.com/design/spec/material-design/introduction.html
+* http://www.androiddesignpatterns.com/
+* https://realm.io/cn/news/
 
 ## blog
 * http://android-developers.blogspot.com
