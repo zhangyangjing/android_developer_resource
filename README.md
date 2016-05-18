@@ -29,6 +29,7 @@
 ## playlist
 * https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
 * https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+* https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
 
 ## developer
 * https://plus.google.com/+ChetHaase
