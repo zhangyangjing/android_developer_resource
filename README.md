@@ -15,6 +15,7 @@
 * http://officialandroid.blogspot.com
 * http://www.curious-creature.com
 * https://medium.com/google-developers
+* https://medium.com/@duhroach
 * https://blog.stylingandroid.com/#
 * http://cyrilmottier.com/
 
