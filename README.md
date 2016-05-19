@@ -28,10 +28,8 @@
 * http://fragmentedpodcast.com
 
 ## playlist
-* https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
-* https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
-* https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
-* https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+* https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw/playlists
+* https://www.youtube.com/user/androiddevelopers/playlists
 
 ## developer
 * https://plus.google.com/+ChetHaase
