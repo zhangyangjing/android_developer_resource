@@ -18,6 +18,7 @@
 * https://medium.com/@duhroach
 * https://blog.stylingandroid.com/#
 * http://cyrilmottier.com/
+* http://www.birbit.com/
 
 ## group
 * https://groups.google.com/forum/#!forum/android-developers
